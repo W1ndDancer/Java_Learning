@@ -36,7 +36,6 @@ public class task1 {
         }
         return index;
     }
-
     public static int[] CreateArray(int size) {
         Random rand = new Random();
         int []arr = new int[size];
