@@ -1,0 +1,8 @@
+/Users/wind/Desktop/Study/7. Java/2. Seminars/seminars/src/main/java/javastudy/file.txt
+/Users/wind/Desktop/Study/7. Java/2. Seminars/seminars/src/main/java/javastudy/Seminar3Task1.java
+/Users/wind/Desktop/Study/7. Java/2. Seminars/seminars/src/main/java/javastudy/Seminar2Task1.java
+/Users/wind/Desktop/Study/7. Java/2. Seminars/seminars/src/main/java/javastudy/Seminar2Task2.java
+/Users/wind/Desktop/Study/7. Java/2. Seminars/seminars/src/main/java/javastudy/Seminar2Task3.java
+/Users/wind/Desktop/Study/7. Java/2. Seminars/seminars/src/main/java/javastudy/Task2.java
+/Users/wind/Desktop/Study/7. Java/2. Seminars/seminars/src/main/java/javastudy/Seminar2Task4.java
+/Users/wind/Desktop/Study/7. Java/2. Seminars/seminars/src/main/java/javastudy/Task3.java
