@@ -20,7 +20,7 @@ public class HW5T1 {
         Scanner scn = new Scanner(System.in);
         System.out.print("Введите фамилию для поиска в тел. книге: ");
         String name = scn.nextLine();
-        if (telBook.get(name) != null) System.out.println("ФИО: " + name + "\nНомера телефонов: " + telBook.get(name));
-        else System.out.println("Данныго человека нет в телефонном справочнике");
+        if (telBook.containsKey(name)) System.out.println("ФИО: " + name + "\nНомера телефонов: " + telBook.get(name));
+        else System.out.println("Данного человека нет в телефонном справочнике");
     }
 }
