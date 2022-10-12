@@ -55,7 +55,7 @@ public class PersonHW implements Comparable<PersonHW>{
     }
     */
     //Третья реализация метода compare
-    /*
+
     @Override
     public int compareTo(PersonHW o) {
         if (this.age == o.age){
@@ -66,9 +66,10 @@ public class PersonHW implements Comparable<PersonHW>{
         }
         return Integer.compare(this.age, o.age);
     }
-     */
+
 
     //Четвертая реализация метода compare
+    /*
     @Override
     public int compareTo(PersonHW o) {
         if(o.height == this.height){
@@ -82,6 +83,7 @@ public class PersonHW implements Comparable<PersonHW>{
         }
         return Integer.compare(o.height,this.height);
     }
+     */
 
     public static void main(String[] args) {
         ArrayList<PersonHW> ppls = new ArrayList<>();

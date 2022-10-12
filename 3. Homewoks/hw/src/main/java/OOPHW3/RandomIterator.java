@@ -34,7 +34,7 @@ public class RandomIterator implements Iterable<Integer>{
     }
 
     public static void main(String[] args) {
-        RandomIterator it = new RandomIterator(5);
+        RandomIterator it = new RandomIterator(8);
         for (Integer each: it){
             System.out.println(each);
         }
