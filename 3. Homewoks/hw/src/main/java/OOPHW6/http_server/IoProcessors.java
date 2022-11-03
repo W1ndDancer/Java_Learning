@@ -33,7 +33,7 @@ public class IoProcessors {
                 assert ext != null;
                 for (String pathname : ext){
                     int ind = pathname.lastIndexOf("/");
-                    writer.println("<p>" + "<a href=" + pathname.substring(ind+1) + "</a>" + pathname.substring(ind+1) + "</p>");
+                    writer.println("<p>" + "<a href= " + pathname.substring(ind+1) + ">" + pathname.substring(ind+1) + "</a> </p>" );
                 }
             },
 
